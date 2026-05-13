@@ -49,9 +49,6 @@ It compares:
    adaptive_modulation
    ```
 
-## 📷 Sample Results
-
-(Add your screenshots here)
 
 ## 👩‍💻 Author
 
